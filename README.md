@@ -7,5 +7,6 @@ CRUD methods were tested in Insomnia.
 
 
 #### Link to walk through video
-
-
+https://watch.screencastify.com/v/Zg5zMxJATXaj87Q9ZBwL
+https://watch.screencastify.com/v/w4bE26GMIChVAXSnGyJT
+https://watch.screencastify.com/v/tTE4YOSOVxuj9jYpUACq
